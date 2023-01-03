@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcelW1323
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ... (still considering about)
+- 💞️ I’m looking to collaborate on a graphic library for IBCS-like graphs
 - 📫 How to reach me : mail me!
 
 <!---
